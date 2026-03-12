@@ -70,7 +70,7 @@ $$F = G \frac{(\frac{1}{2}m_1)(\frac{1}{2}m_2)}{(2r)^2}$$
 $$F = \left( \frac{1/4}{4} \right) \cdot G \frac{m_1 m_2}{r^2}$$
 $$F = \frac{1}{16} F$$
 
-The Gravitational force $F$ will change by a factor of **$1/16$** 
+The Gravitational force $F final$ will change by a factor of **$1/16$** 
 
 ## 4. Rearranging Formulas
 
