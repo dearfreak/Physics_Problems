@@ -1,3 +1,5 @@
+## Pendulum
+
 Given a pendulum with a length $L = 1.0 \, \text{m}$ released from an initial angle $\theta = 15^\circ$, we need to find its velocity $v$ at the lowest point of the swing.
 
 ## 1. Conservation of Energy Approach
