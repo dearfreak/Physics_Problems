@@ -1,5 +1,3 @@
-This problem is solved in two distinct stages: first, the energy conversion as the block slides down, and second, the conservation of momentum during the inelastic collision.
-
 ## 1. Finding the Velocity Before Collision
 As the $0.5 \, \text{kg}$ block ($m_1$) slides down the frictionless track, its gravitational potential energy is converted entirely into kinetic energy.
 
