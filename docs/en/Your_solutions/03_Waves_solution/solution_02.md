@@ -1,5 +1,4 @@
 ## 1. Identify the Harmonics
-The problem states the string is at its **fundamental frequency** (the first harmonic) and has **one antinode**. 
 
 For a string fixed at both ends, the fundamental frequency occurs when the length of the string ($L$) is equal to exactly half of one wavelength ($\lambda$).
 
