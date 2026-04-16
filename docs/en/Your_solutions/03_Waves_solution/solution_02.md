@@ -1,5 +1,3 @@
-To find the speed of a wave on a string, we need to understand the relationship between the string's length, the wavelength of its fundamental frequency, and the wave speed.
-
 ## 1. Identify the Harmonics
 The problem states the string is at its **fundamental frequency** (the first harmonic) and has **one antinode**. 
 
