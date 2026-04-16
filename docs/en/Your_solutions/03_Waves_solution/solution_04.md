@@ -1,5 +1,3 @@
-To find the phase difference between two points on a wave, we use the relationship between spatial distance (path difference) and the angular representation of a wave cycle.
-
 ## 1. The Relationship
 One full wavelength ($\lambda$) represents one complete cycle of a wave, which is equivalent to a phase shift of $2\pi$ radians (or $360^\circ$).
 
