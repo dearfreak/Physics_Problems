@@ -48,6 +48,10 @@ To find the state at the next time step $y_{n+1}$ from the current state $y_n$, 
 * **$k_4 = f(t_n + h, y_n + hk_3)$**
     * The slope at the end of the interval using $k_3$.
 
+The new position and velocity are updated by taking the weighted average of the slopes:
+$$x_{n+1} = x_n + \\frac{h}{6}(k_{1x} + 2k_{2x} + 2k_{3x} + k_{4x})$$
+$$v_{n+1} = v_n + \\frac{h}{6}(k_{1v} + 2k_{2v} + 2k_{3v} + k_{4v})$$
+
 ---
 
 ## 4. Investigating Parameter $b$
