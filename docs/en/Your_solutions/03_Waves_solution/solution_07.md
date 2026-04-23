@@ -1,5 +1,3 @@
-To find the wavelength of a standing wave on a string fixed at both ends, we analyze the relationship between the number of antinodes and the length of the string.
-
 ## 1. Understanding the Harmonic
 The number of **antinodes** (points of maximum displacement) in a standing wave corresponds to the harmonic number ($n$).
 
