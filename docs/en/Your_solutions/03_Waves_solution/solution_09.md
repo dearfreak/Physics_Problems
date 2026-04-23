@@ -28,11 +28,6 @@ The behavior of the system depends on the relationship between $\gamma$ and $\om
 ---
 
 ## 3. Numerical Solution (RK4 Method)
-To solve the equation numerically, we break the second-order ODE into a system of two first-order ODEs:
-1.  $\frac{dx}{dt} = v$
-2.  $\frac{dv}{dt} = -\frac{b}{m}v - \frac{k}{m}x$
-
-The **Runge-Kutta 4th Order (RK4)** method calculates four intermediate slopes ($k_1$ through $k_4$) to estimate the next state $(x_{n+1}, v_{n+1})$ with high accuracy.
 
 To solve this numerically, we convert this second-order ODE into a system of two first-order ODEs by introducing velocity ($v$):
 
@@ -43,7 +38,7 @@ We define our state vector as $y = [x, v]$ and our derivative function as $f(t, 
 
 ---
 
-## 2. The RK4 Algorithm
+## The RK4 Algorithm
 To find the state at the next time step $y_{n+1}$ from the current state $y_n$, we calculate four intermediate "slopes":
 
 ### Step 1: Calculate Slopes
