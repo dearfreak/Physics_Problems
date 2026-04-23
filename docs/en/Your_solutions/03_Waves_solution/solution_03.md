@@ -5,6 +5,11 @@ Given the two wave equations:
 * $y_1(x,t) = A \sin(kx - \omega t)$ (Right-traveling wave)
 * $y_2(x,t) = A \sin(kx + \omega t)$ (Left-traveling wave)
 
+Where:
+* **$A$** = Amplitude
+* **$k$** = Wave number ($k = \frac{2\pi}{\lambda}$)
+* **$\omega$** = Angular frequency ($\omega = 2\pi f$)
+
 Using the trigonometric identity:
 $$\sin(\alpha) + \sin(\beta) = 2 \sin\left(\frac{\alpha + \beta}{2}\right) \cos\left(\frac{\alpha - \beta}{2}\right)$$
 
