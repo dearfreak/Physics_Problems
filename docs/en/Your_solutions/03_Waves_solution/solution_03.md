@@ -47,4 +47,3 @@ Nodes occur at $x = 0, \frac{\lambda}{2}, \lambda, \frac{3\lambda}{2}, \dots$
 | **Equation** | $y(x,t) = 2A \sin(kx) \cos(\omega t)$ | Result of superposition |
 | **Amplitude** | $2A \sin(kx)$ | Varies with position $x$ |
 | **Nodes** | Points of zero motion | $x = n \frac{\lambda}{2}$ |
-| **Antinodes** | Points of maximum motion | $x = (n + \frac{1}{2}) \frac{\lambda}{2}$ |
