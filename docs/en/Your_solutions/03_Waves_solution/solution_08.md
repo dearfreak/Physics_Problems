@@ -29,5 +29,3 @@ This is in the form $f(x + vt)$.
 
 ## Final Result
 The functions that can describe a traveling wave are **(b)** and **(c)**. 
-
-> **Note:** Function **(b)** is the most common example of a non-sinusoidal traveling pulse. Function **(a)** fails because the spatial frequency changes with distance, meaning it is not a rigid translation of a shape.
