@@ -27,7 +27,7 @@ The behavior of the system depends on the relationship between $\gamma$ and $\om
 
 ---
 
-## 3. Numerical Solution (RK4 Method)
+## 3. Numerical Solution (RK4(Runge-Kutta 4th Order) Method)
 
 To solve this numerically, we convert this second-order ODE into a system of two first-order ODEs by introducing velocity ($v$):
 
