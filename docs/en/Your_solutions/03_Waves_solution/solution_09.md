@@ -36,12 +36,9 @@ To solve this numerically, we convert this second-order ODE into a system of two
 
 We define our state vector as $y = [x, v]$ and our derivative function as $f(t, y) = [v, \\frac{-bv - kx}{m}]$.
 
----
-
-## The RK4 Algorithm
 To find the state at the next time step $y_{n+1}$ from the current state $y_n$, we calculate four intermediate "slopes":
 
-### Step 1: Calculate Slopes
+### Calculate Slopes
 * **$k_1 = f(t_n, y_n)$**
     * The slope at the beginning of the interval.
 * **$k_2 = f(t_n + \\frac{h}{2}, y_n + \\frac{h}{2}k_1)$**
@@ -50,10 +47,6 @@ To find the state at the next time step $y_{n+1}$ from the current state $y_n$, 
     * The slope at the midpoint using $k_2$.
 * **$k_4 = f(t_n + h, y_n + hk_3)$**
     * The slope at the end of the interval using $k_3$.
-
-### Step 2: Weighted Average Update
-The next state is calculated using a weighted average of these slopes:
-$$y_{n+1} = y_n + \\frac{h}{6}(k_1 + 2k_2 + 2k_3 + k_4)$$
 
 ---
 
