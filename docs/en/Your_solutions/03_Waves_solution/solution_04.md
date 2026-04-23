@@ -1,6 +1,12 @@
 ## 1. The Relationship
 One full wavelength ($\lambda$) represents one complete cycle of a wave, which is equivalent to a phase shift of $2\pi$ radians (or $360^\circ$).
 
+## 2. Given Values
+* **Distance between points ($\Delta x$):** $\frac{\lambda}{3}$
+
+---
+
+## 3. Calculation
 The formula to calculate the phase difference ($\Delta \phi$) based on the distance between two points ($\Delta x$) is:
 
 $$\Delta \phi = \frac{2\pi}{\lambda} \cdot \Delta x$$
@@ -8,14 +14,6 @@ $$\Delta \phi = \frac{2\pi}{\lambda} \cdot \Delta x$$
 
 
 ---
-
-## 2. Given Values
-* **Distance between points ($\Delta x$):** $\frac{\lambda}{3}$
-
----
-
-## 3. Calculation
-Substitute the value of $\Delta x$ into the formula:
 
 $$\Delta \phi = \frac{2\pi}{\lambda} \cdot \left( \frac{\lambda}{3} \right)$$
 
