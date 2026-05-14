@@ -49,4 +49,4 @@ $$B = 7.5 \times 10^{-7} \text{ T}$$
 ---
 
 ## Final Answer
-The magnitude of the magnetic field at point $P$ is **$7.5 	imes 10^{-7} 	ext{ T}$** (or $0.75 \mu	ext{T}$).
+The magnitude of the magnetic field at point $P$ is exactly $7.5 \times 10^{-7} \text{ T}$ .
