@@ -2,7 +2,9 @@
 * **Speed of light in a vacuum ($c$):** Approximately $3.00 \times 10^8$ m/s.
 * **Index of refraction for diamond ($n$):** $2.42$.
 
-### Calculation Process
+### Calculation Process'
+
+Light is at its absolute fastest when it's in a vacuum (empty space), which is that $3.00 \times 10^8$ m/s "top speed". When light hits a material like a diamond, it bumps into atoms and electrons, which slows it down—kind of like trying to run through waist-deep water instead of air
 To find the speed in the medium, we divide the speed of light in a vacuum by the refractive index of the diamond:
 
 $$v = \frac{3.00 \times 10^8 \text{ m/s}}{2.42}$$
