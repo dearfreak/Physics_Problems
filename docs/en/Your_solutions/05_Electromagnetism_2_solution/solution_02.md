@@ -47,4 +47,4 @@ $$B_{\text{total}} = 2 \times (2 \times 10^{-5} \text{ T}) = 4 \times 10^{-5} \t
 ## Final Answer
 The magnitude of the magnetic field at the midpoint is **$4 	imes 10^{-5} 	ext{ T}$** (or $40 \mu	ext{T}$). 
 
-The direction is **perpendicular to the plane of the wires** (e.g., "into the page" if the wires are laid out vertically on a sheet).
+The direction is **perpendicular to the plane of the wires**.
