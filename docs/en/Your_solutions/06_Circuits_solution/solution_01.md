@@ -24,7 +24,7 @@ $$I_{\text{series}} = \frac{12\text{ V}}{95\ \Omega} \approx 0.126\text{ A}\ (12
 
 ## Case 2: Parallel Connection
 
-In a **parallel circuit**, each resistor is connected across the same two points, creating multiple separate paths for the current. Because electricity has more paths to choose from, the overall total resistance decreases.
+In a [**parallel circuit**](https://www.falstad.com/circuit/circuitjs.html?ctz=DwYwlgTgBAZgvAIgIwKgFwM6IAwDpsEECsqYIiSeATAVQOx0DM2AHFQGwCcndqIARoiLZUAB0EIALI1QA3CENQBbTEICmAWiQoAfACgoUYLKgAPRBvaSojdiyiXrSdiNgV2qAO7wErpQENTWQoqBAB6fUNgaHMERyhnbCgWJMTUH1cFZBIIgyMYiysoTnYoIpL0nFQs5nDI-LNC60l7FqgWyt9qoRFcqM9GuKK2+Iq3Lr6jAdjR0vi08d764GnENrbyj0W6vJXBzeTUl06l3dWEFISXQ5s7E53+wcvbe3iX+9zgMPAIfSA), each resistor is connected across the same two points, creating multiple separate paths for the current. Because electricity has more paths to choose from, the overall total resistance decreases.
 
 ### 1. Find Total Equivalent Resistance ($R_{\text{parallel}}$)
 To find the total parallel resistance, we add the reciprocals (flipped versions) of each resistance, and then flip the final answer:
