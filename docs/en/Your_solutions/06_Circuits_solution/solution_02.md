@@ -1,5 +1,4 @@
-When combining exactly three $1\\,\\Omega$ resistors, there are four distinct circuit configurations you can build. Here is a breakdown of each configuration and its resulting total (equivalent) resistance.
-
+When combining exactly three $1\\,\\Omega$ resistors, there are four distinct circuit configurations you can build.
 ---
 
 ### Core Concepts Reminder
