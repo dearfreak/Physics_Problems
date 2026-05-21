@@ -1,31 +1,34 @@
-To figure out the average current, it helps to first understand what current actually means. Think of **electric current** as the speed of electric traffic—it measures how much electric charge flows from one place to another over a specific amount of time. 
+Imagine a massive water tank suddenly emptying through a huge pipe. To understand how intense that flow of water is, you'd need to know two things:
+1. **How much water** total went through the pipe.
+2. **How long** it took for all that water to pass through.
 
-Because current is just a rate of flow, we can find it simply by dividing the total amount of charge by the time it took to move. 
+Electricity works the exact same way! Instead of water, we have **Electric Charge** (measured in Coulombs). Instead of gallons per minute, we measure the flow of electricity as **Current** (measured in Amperes, or Amps). 
 
-Here is the standard formula that represents this idea:
+**Current is the rate at which charge flows.**
+
+Because current is a rate , we calculate it by dividing the total amount of electricity that moved by the time it took to move it. 
+
+This gives us our formula:
 $$I = \frac{Q}{t}$$
 
-Where:
-* **$I$** = Current (measured in Amperes, A)
-* **$Q$** = Charge (measured in Coulombs, C)
-* **$t$** = Time (measured in standard seconds, s)
+* **$I$ (Current):** The speed of the flow. 
+* **$Q$ (Charge):** The total amount of electricity delivered.
+* **$t$ (Time):** How long the event lasted, strictly measured in standard seconds.
 
 ---
 
-### **The Solution**
+**1. Identify what we know:**
+* The total charge ($Q$) dropped by the lightning is **30 Coulombs**.
+* The time ($t$) this took is incredibly fast: **2 milliseconds**.
 
-**1. Identify your variables**
-* Charge ($Q$) = 30 Coulombs
-* Time ($t$) = 2 milliseconds
+**2. Convert to standard units:**
+Formulas in physics expect time to be in standard **seconds**. A millisecond is one-thousandth of a second. To convert, we divide by 1,000:
+$$2 \text{ milliseconds} \div 1000 = 0.002 \text{ seconds}$$
 
-**2. Convert to standard units**
-Physics formulas require you to use standard base units. Before doing the math, we need to convert the time from milliseconds into seconds. Since "milli" means one-thousandth, we divide by 1,000:
-$$2 \text{ milliseconds} = 0.002 \text{ seconds}$$
-
-**3. Do the math**
-Now, just plug the standard numbers into our formula:
-$$I = \frac{30}{0.002}$$
-$$I = 15000$$
+**3. Calculate the Current:**
+We take our total charge and divide it by our standard time to find the rate of flow:
+$$I = \frac{30 \text{ Coulombs}}{0.002 \text{ seconds}}$$
+$$I = 15,000 \text{ Amperes}$$
 
 **Final Answer:**
-The average current of the lightning bolt is **15,000 Amperes** (which can also be written as 15 kA).
+The average current of the lightning bolt is **15,000 Amperes** (written as 15 kA).
