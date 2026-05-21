@@ -12,7 +12,7 @@ Because they change together in the exact same pattern, the voltage equation wil
 
 To connect the actual values of voltage and current, we use **Ohm's Law**. This fundamental law states that voltage (<span class="math">V</span>) is always equal to the current (<span class="math">I</span>) multiplied by the resistance (<span class="math">R</span>):
 
-<div style="text-align:center; margin:1em 0; font-size:1.1em;"><span class="math">V = I \times R</span></div>
+<div style="text-align:center; margin:1em 0; font-size:1.1em;"><span class="math">V = I * R</span></div>
 
 ### 3. Calculating the Peak Voltage
 To find the maximum or peak voltage (<span class="math">V_{max}</span>) across the resistor, we simply multiply the peak current by the resistance:
