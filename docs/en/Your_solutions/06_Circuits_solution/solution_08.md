@@ -1,29 +1,34 @@
-To find the voltage equation across the resistor, we can look at how current and voltage behave together in a simple circuit.
+### 1. The Relationship Between Voltage and Current
+In simple terms, Ohm's Law states that the voltage across a resistor is directly proportional to the current flowing through it. If the current changes over time, the voltage changes along with it in exactly the same pattern. 
 
-### 1. Understanding the Given Information
-We are given two pieces of information about our alternating current (AC) circuit:
-* **The Current Equation:** <span class="math">I(t) = 2\sin(120\pi t)</span>. This tells us how the electrical current flows back and forth over time. The number **2** before the sine function represents the peak current (<span class="math">I_{max}</span>).
-* **The Resistance:** <span class="math">R = 50\ \Omega</span>. This is the measure of how much the resistor opposes the flow of current.
+Mathematically, this relationship is expressed as:
+<div style="text-align:center; margin:1em 0; font-size:1.1em;"><span class="math">V(t) = I(t) \\times R</span></div>
 
-### 2. The Relationship Between Voltage and Current
-In a purely resistive AC circuit (a circuit with only a resistor), the voltage and the current are perfectly in sync. This means that when the current reaches its maximum value, the voltage does too. 
+This means to find the voltage equation, we simply take our current equation and multiply it by the resistance value.
 
-Because they change together in the exact same pattern, the voltage equation will have the exact same mathematical shape as the current equation—specifically, it will also use <span class="math">\sin(120\pi t)</span>. 
+### 2. Setting Up the Calculation
+Let's substitute our known values into the relation:
+* Replace <span class="math">I(t)</span> with <span class="math">2\\sin(120\\pi t)</span>
+* Replace <span class="math">R</span> with <span class="math">50</span>
 
-To connect the actual values of voltage and current, we use **Ohm's Law**. This fundamental law states that voltage (<span class="math">V</span>) is always equal to the current (<span class="math">I</span>) multiplied by the resistance (<span class="math">R</span>):
+This gives us:
+<div style="text-align:center; margin:1em 0; font-size:1.1em;"><span class="math">V(t) = [2\\sin(120\\pi t)] \\times 50</span></div>
 
-<div style="text-align:center; margin:1em 0; font-size:1.1em;"><span class="math">V = I * R</span></div>
+### 3. Simplifying the Equation
+We can regroup the constant numbers together to simplify the expression:
+<div style="text-align:center; margin:1em 0; font-size:1.1em;"><span class="math">V(t) = (2 \\times 50) \\times \\sin(120\\pi t)</span></div>
 
-### 3. Calculating the Peak Voltage
-To find the maximum or peak voltage (<span class="math">V_{max}</span>) across the resistor, we simply multiply the peak current by the resistance:
+Multiplying <span class="math">2</span> by <span class="math">50</span> gives <span class="math">100</span>:
+<div style="text-align:center; margin:1em 0; font-size:1.1em;"><span class="math">V(t) = 100\\sin(120\\pi t)</span></div>
 
-<div style="text-align:center; margin:1em 0; font-size:1.1em;"><span class="math">V_{max} = I_{max} \times R</span></div>
-<div style="text-align:center; margin:1em 0; font-size:1.1em;"><span class="math">V_{max} = 2\text{ A} \times 50\ \Omega = 100\text{ V}</span></div>
+---
 
-### 4. Writing the Final Equation
-Now we can construct our final voltage equation <span class="math">V(t)</span>. We take the peak voltage we just calculated (100) and pair it with the exact same time-dependent sine wave from our current equation:
+## Final Answer
 
-<div style="text-align:center; margin:1em 0; font-size:1.1em;"><span class="math">V(t) = 100\sin(120\pi t)</span></div>
+The equation for the AC voltage across the resistor is:
+<div style="text-align:center; margin:1em 0; font-size:1.1em;"><span class="math">V(t) = 100\\sin(120\\pi t)</span></div>
+
+*(Note: The unit for voltage is Volts, so the peak voltage in this circuit is 100 V.)*
 
 **Final Answer:**
 The equation for the voltage across the resistor is **<span class="math">V(t) = 100\sin(120\pi t)</span>** (measured in Volts).
