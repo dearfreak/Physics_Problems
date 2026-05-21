@@ -3,7 +3,7 @@ To find the voltage across a resistor in an AC circuit, we can use a foundationa
 Because this is a simple resistor, the voltage and current rise and fall exactly together (they are "in phase"). This means we don't have to change the timing or the sine wave itself; we can just multiply the overall magnitude of the current equation by the resistance value to get our voltage equation.
 
 Here is the information given in the problem:
-* **Current ($I(t)$):** $2\\sin(120\\pi t)$
+* **Current I:** $2\\sin(120\\pi t)$
 * **Resistance ($R$):** $50 \\, \\Omega$
 
 ### Step-by-Step Calculation:
