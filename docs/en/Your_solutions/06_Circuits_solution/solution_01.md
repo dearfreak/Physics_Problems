@@ -32,10 +32,10 @@ $$\frac{1}{R_{\text{parallel}}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$
 
 $$\frac{1}{R_{\text{parallel}}} = \frac{1}{15} + \frac{1}{30} + \frac{1}{50}$$
 
-Let's find a common denominator (which is $150$):
+Find a common denominator (which is $150$):
 $$\frac{1}{R_{\text{parallel}}} = \frac{10}{150} + \frac{5}{150} + \frac{3}{150} = \frac{18}{150}$$
 
-Now, flip this fraction to find $R_{\text{parallel}}$:
+Flip this fraction to find $R_{\text{parallel}}$:
 $$R_{\text{parallel}} = \frac{150}{18} \approx 8.33\ \Omega$$
 
 ### 2. Find Total Current ($I_{\text{parallel}}$)
