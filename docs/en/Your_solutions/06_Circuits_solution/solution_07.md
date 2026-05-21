@@ -5,7 +5,7 @@ When capacitors are connected in parallel, they are placed side-by-side in the c
     For parallel connections, we simply add the individual capacities together:
     $$C_{\\text{total}} = C_1 + C_2$$
     $$C_{\\text{total}} = 4\\,\\mu\\text{F} + 6\\,\\mu\\text{F} = 10\\,\\mu\\text{F}$$
-    *(Note: $1\\,\\mu\\text{F} = 10^{-6}\\,\\text{F}$)*
+    
 
 * **Step B: Calculate the total charge ($Q_{\\text{total}}$)**
     The basic rule of electrical storage is that charge ($Q$) equals capacity ($C$) multiplied by voltage ($V$). 
