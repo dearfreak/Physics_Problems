@@ -1,54 +1,52 @@
-**Given Values:**
-* $R_1 = 15 \\, \\Omega$
-* $R_2 = 30 \\, \\Omega$
-* $R_3 = 50 \\, \\Omega$
-* Voltage ($V$) = **12 V**
+## Given Data
+* **Resistor 1 ($R_1$):** $15\ \Omega$
+* **Resistor 2 ($R_2$):** $30\ \Omega$
+* **Resistor 3 ($R_3$):** $50\ \Omega$
+* **Battery Voltage ($V$):** $12\text{ V}$
 
 ---
 
-### Case 1: Resistors in Series
+## Case 1: Series Connection
 
-When resistors are connected in series, the total equivalent resistance is simply the sum of all individual resistances. 
+In a **series circuit**, resistors are connected end-to-end in a single line. Because there is only one path for the electricity to flow, the total resistance is simply the sum of all individual resistances.
 
-**1. Equivalent Resistance**
-$$R_{eq} = R_1 + R_2 + R_3$$
-$$R_{eq} = 15 + 30 + 50$$
-$$R_{eq} = 95 \\, \\Omega$$
+### 1. Find Total Equivalent Resistance ($R_{\text{series}}$)
+To find the total resistance, we add them all up:
+$$R_{\text{series}} = R_1 + R_2 + R_3$$
 
-**2. Total Current**
-Using Ohm's Law ($I = \\frac{V}{R}$), we divide the battery's voltage by the equivalent resistance to find the current flowing from the battery.
-$$I_{series} = \\frac{12}{95}$$
-$$I_{series} \\approx 0.126\\text{ A} \\quad \\text{(or 126 mA)}$$
+$$R_{\text{series}} = 15\ \Omega + 30\ \Omega + 50\ \Omega = 95\ \Omega$$
 
----
-
-### Case 2: Resistors in Parallel
-
-When resistors are connected in parallel, the reciprocal of the total equivalent resistance is the sum of the reciprocals of each individual resistance.
-
-**1. Equivalent Resistance**
-$$\\frac{1}{R_{eq}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3}$$
-$$\\frac{1}{R_{eq}} = \\frac{1}{15} + \\frac{1}{30} + \\frac{1}{50}$$
-
-To add these fractions, find the common denominator, which is 150:
-$$\\frac{1}{R_{eq}} = \\frac{10}{150} + \\frac{5}{150} + \\frac{3}{150}$$
-$$\\frac{1}{R_{eq}} = \\frac{18}{150}$$
-
-Now, take the reciprocal to find $R_{eq}$:
-$$R_{eq} = \\frac{150}{18}$$
-$$R_{eq} \\approx 8.33 \\, \\Omega$$
-
-**2. Total Current**
-Again, use Ohm's Law with the parallel equivalent resistance. For the most precise result, use the exact fraction ($\\frac{150}{18}$) rather than the rounded decimal.
-$$I_{parallel} = \\frac{V}{R_{eq}}$$
-$$I_{parallel} = \\frac{12}{\\frac{150}{18}}$$
-$$I_{parallel} = 12 \\cdot \\frac{18}{150}$$
-$$I_{parallel} = \\frac{216}{150}$$
-$$I_{parallel} = 1.44\\text{ A}$$
+### 2. Find Total Current ($I_{\text{series}}$)
+Using **Ohm's Law**, the total current flowing from the battery is the battery voltage divided by the total resistance ($I = \frac{V}{R}$):
+$$I_{\text{series}} = \frac{12\text{ V}}{95\ \Omega} \approx 0.126\text{ A}\ (126\text{ mA})$$
 
 ---
 
-| Configuration | Equivalent Resistance ($R_{eq}$) | Total Current ($I$) |
+## Case 2: Parallel Connection
+
+In a **parallel circuit**, each resistor is connected across the same two points, creating multiple separate paths for the current. Because electricity has more paths to choose from, the overall total resistance decreases.
+
+### 1. Find Total Equivalent Resistance ($R_{\text{parallel}}$)
+To find the total parallel resistance, we add the reciprocals (flipped versions) of each resistance, and then flip the final answer:
+$$\frac{1}{R_{\text{parallel}}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
+
+$$\frac{1}{R_{\text{parallel}}} = \frac{1}{15} + \frac{1}{30} + \frac{1}{50}$$
+
+Let's find a common denominator (which is $150$):
+$$\frac{1}{R_{\text{parallel}}} = \frac{10}{150} + \frac{5}{150} + \frac{3}{150} = \frac{18}{150}$$
+
+Now, flip this fraction to find $R_{\text{parallel}}$:
+$$R_{\text{parallel}} = \frac{150}{18} \approx 8.33\ \Omega$$
+
+### 2. Find Total Current ($I_{\text{parallel}}$)
+Using **Ohm's Law** again, the total current leaving the battery is the voltage divided by this new, lower total resistance:
+$$I_{\text{parallel}} = \frac{12\text{ V}}{8.33\ \Omega} \approx 1.44\text{ A}$$
+
+---
+
+## Summary
+
+| Connection Type | Total Equivalent Resistance | Current from Battery |
 | :--- | :--- | :--- |
-| **Series** | **95 $\\Omega$** | **$\\approx$ 0.126 A** |
-| **Parallel** | **$\\approx$ 8.33 $\\Omega$** | **1.44 A** |
+| **Series** | $95\ \Omega$ | $0.126\text{ A}$ |
+| **Parallel** | $8.33\ \Omega$ | $1.44\text{ A}$ |
