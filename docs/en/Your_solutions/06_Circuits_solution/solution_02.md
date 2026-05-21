@@ -1,7 +1,7 @@
 When combining exactly three $1\\,\\Omega$ resistors, there are four distinct circuit configurations you can build.
+
 ---
 
-### Core Concepts Reminder
 * **Series Connection:** Resistors are connected end-to-end in a line. The total resistance is found by adding them together.
 * **Parallel Connection:** Resistors are connected side-by-side across the same two points. The total resistance decreases because current has multiple paths to flow through.
 
