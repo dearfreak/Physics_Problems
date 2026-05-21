@@ -31,14 +31,3 @@ When combining exactly three $1\\,\\Omega$ resistors, there are four distinct ci
 
 * **Explanation:** First, combine the two resistors in series, which gives $2\\,\\Omega$. Now you have a $2\\,\\Omega$ branch in parallel with a single $1\\,\\Omega$ resistor. 
 * **Calculation:** $$R_{\\text{eq}} = \\frac{R_{\\text{branch}} \\times R_3}{R_{\\text{branch}} + R_3} = \\frac{2\\,\\Omega \\times 1\\,\\Omega}{2\\,\\Omega + 1\\,\\Omega} = \\frac{2}{3}\\,\\Omega \\approx 0.67\\,\\Omega$$
-
----
-
-### Summary of Unique Equivalent Resistance Values
-
-The four unique equivalent resistance values you can create using exactly three $1\\,\\Omega$ resistors are:
-
-1. **$\\frac{1}{3}\\,\\Omega$** (or $0.33\\,\\Omega$)
-2. **$\\frac{2}{3}\\,\\Omega$** (or $0.67\\,\\Omega$)
-3. **$\\frac{3}{2}\\,\\Omega$** (or $1.5\\,\\Omega$)
-4. **$3\\,\\Omega$**
