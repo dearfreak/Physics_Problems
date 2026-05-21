@@ -8,7 +8,7 @@
 
 ## Case 1: Series Connection
 
-In a **series circuit**, resistors are connected end-to-end in a single line. Because there is only one path for the electricity to flow, the total resistance is simply the sum of all individual resistances.
+In a [**series circuit**](https://www.falstad.com/circuit/circuitjs.html?ctz=DwYwlgTgBAZgvAIgIwKgFwM6IAwDpsEECsqYIiSeATAVQOx0DM2AHFQGwCcndqIARoiLZUAB0EIALI1QA3CENQBbTEICmAWiQoAfACgoUYLKgAPRBvaSojdiyiXrSdiNgV2qAO7wErpQENTWQoqBAB6fUNgaHMERyhnbCgWJMTUH1cFZBIIgyMYxBSElygaezS3X1Qs5nDI-LNEMuKkxhoW9JxqoRFcqM9GhDbUkuGbO06qvqMB2LHbe3iFyd79YDDwCH0gA), resistors are connected end-to-end in a single line. Because there is only one path for the electricity to flow, the total resistance is simply the sum of all individual resistances.
 
 ### 1. Find Total Equivalent Resistance ($R_{\text{series}}$)
 To find the total resistance, we add them all up:
