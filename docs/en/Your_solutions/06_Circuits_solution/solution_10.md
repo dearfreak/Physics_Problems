@@ -1,9 +1,3 @@
-Imagine a massive water tank suddenly emptying through a huge pipe. To understand how intense that flow of water is, you'd need to know two things:
-1. **How much water** total went through the pipe.
-2. **How long** it took for all that water to pass through.
-
-Electricity works the exact same way! Instead of water, we have **Electric Charge** (measured in Coulombs). Instead of gallons per minute, we measure the flow of electricity as **Current** (measured in Amperes, or Amps). 
-
 **Current is the rate at which charge flows.**
 
 Because current is a rate , we calculate it by dividing the total amount of electricity that moved by the time it took to move it. 
