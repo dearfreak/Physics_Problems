@@ -1,4 +1,4 @@
-To find the currents $I_1$, $I_2$, and $I_3$, we use two fundamental rules of physics known as **Kirchhoff's Laws**:
+To find the currents $I_1$, $I_2$, and $I_3$, we use two fundamental rules of physics known as [**Kirchhoff's Laws**](https://www.electronicspecifier.com/wp-content/uploads/2025/11/AdobeStock_498668731.jpeg):
 
 1. **Kirchhoff's Current Law (KCL):** Total current entering any junction must equal total current leaving it (what goes in must come out).
 2. **Kirchhoff's Voltage Law (KVL):** The sum of all electrical potential differences (voltages) around any closed loop must equal zero.
