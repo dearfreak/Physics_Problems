@@ -8,7 +8,7 @@ To find the currents $I_1$, $I_2$, and $I_3$, we use two fundamental rules of ph
 ### Step 1: Label the Current Directions
 
 Let's define the paths and directions of the currents based on the circuit components:
-- **$I_1$ (Left Branch):** Flows through the left loop containing $R_1$, ammeter $A$, and the battery $\mathcal{E}_1$. Let's assume it flows **counter-clockwise**, coming out of the positive terminal of $\mathcal{E}_1$.
+- **$I_1$ (Left Branch):** Flows through the left loop containing $R_1$, ammeter $A$, and the battery $\mathcal{E}_1$. Let's assume it flows **counter-clockwise**.
 - **$I_3$ (Right Branch):** Flows through the right loop containing the internal resistance $r_w$ and the battery $\mathcal{E}_2$. Let's assume it flows **clockwise**, coming out of the positive terminal of $\mathcal{E}_2$.
 - **$I_2$ (Shared Center Branch):** Flows through the center resistor $R_2$. At the top junction, both $I_1$ and $I_3$ meet and flow downward together. Therefore, the downward current is:
   $$\text{Junction Equation: } I_2 = I_1 + I_3$$
