@@ -8,7 +8,7 @@ When combining exactly three $1\\,\\Omega$ resistors, there are four distinct ci
 ---
 
 ### 1. All Three in Series
-All three resistors are connected end-to-end in a single line. 
+[All three resistors are connected end-to-end in a single line.](https://www.falstad.com/circuit/circuitjs.html?ctz=DwYwlgTgBAZgvAIgIwKgFwM6IAwDpsEECsqYIiSeATAVQOx0DM2AHFQGwCcndqIARoiLZUAB0EIALI1QA3CENQBbTEICmAWiQoAfACgoUYLKgAPRBvaSojdiyiXrSdiNgV2qAO7wErpQENTWUUAen1DYGhzBEcoZ2woFgT41B9XBWRCBDCDIyjEJLiXKBp7FLdfVAzKAmzwvLNEUqKExhoW1JwqiiyciM9GhDbk4uGbO07KvqMB6LHbe1iFyZEc4BDwCH0gA) 
 
 * **Explanation:** Since the electricity must flow through each resistor one after the other, you simply add the resistance values together.
 * **Calculation:** $$R_{\\text{eq}} = 1\\,\\Omega + 1\\,\\Omega + 1\\,\\Omega = 3\\,\\Omega$$
