@@ -44,3 +44,4 @@ Finally, the entire upper network ($16\\,\\Omega$) and the single horizontal res
 
 ### **Final Answer**
 The total equivalent resistance of the circuit is **$\\approx 3.81\\,\\Omega$** (or exactly $\\frac{80}{21}\\,\\Omega$).
+[VISUAL](https://i.ibb.co/211SgdGT/image-2026-05-21-154628369.png)
