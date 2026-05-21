@@ -41,4 +41,5 @@ Finally, after the main parallel section recombines, the current must flow throu
 
 ### Final Answer
 The total equivalent resistance of the circuit is **$\\frac{130}{7}\\ \\Omega$** (or approximately **$18.57\\ \\Omega$**).
-[VISUAL](https://i.ibb.co/211SgdGT/image-2026-05-21-154628369.png)
+
+[VISUAL](https://i.ibb.co/hRGRwsS3/image-2026-05-21-155244474.png)
