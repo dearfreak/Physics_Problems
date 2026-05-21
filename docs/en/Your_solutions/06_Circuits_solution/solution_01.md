@@ -17,7 +17,8 @@ $$R_{\text{series}} = R_1 + R_2 + R_3$$
 $$R_{\text{series}} = 15\ \Omega + 30\ \Omega + 50\ \Omega = 95\ \Omega$$
 
 ### 2. Find Total Current ($I_{\text{series}}$)
-Using **Ohm's Law**, the total current flowing from the battery is the battery voltage divided by the total resistance ($I = \frac{V}{R}$):
+Using [**Ohm's Law**](<img width="872" height="273" alt="image" src="https://github.com/user-attachments/assets/ad6a84d3-9e4c-4bc1-997f-1a69c0efcdc5" />
+), the total current flowing from the battery is the battery voltage divided by the total resistance ($I = \frac{V}{R}$):
 $$I_{\text{series}} = \frac{12\text{ V}}{95\ \Omega} \approx 0.126\text{ A}\ (126\text{ mA})$$
 
 ---
