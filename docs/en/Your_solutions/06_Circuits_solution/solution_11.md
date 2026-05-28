@@ -10,7 +10,11 @@ We use the relationship between Voltage ($V$) and Resistance ($R$):
 
 * **Voltage ($V$):** 50 V
 * **Resistance ($R$):** 100 $\\Omega$
+
+
 **Formula:** $P = V^2 / R$
+
+
 $P = 50^2 / 100$  
 $P = 2500 / 100$  
 **Power = 25 Watts (W)**
