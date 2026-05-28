@@ -1,5 +1,5 @@
 ### 1. Total Charge Stored
-When capacitors are connected in parallel, they are placed side-by-side in the circuit. This means both capacitors experience the exact same electrical push (voltage) from the battery. To find out how much total electrical charge they can hold together, we first combine their individual storage capacities into one single total capacity (called equivalent capacitance).
+When capacitors are connected in parallel, they are placed side-by-side in the circuit. This means both capacitors experience the exact same electrical push (voltage) from the battery. To find out how much total electrical charge they can hold together, we first combine their individual storage capacities into one single total capacity.
 
 * **Step A: Find the total capacity ($C_{\\text{total}}$)**
     For parallel connections, we simply add the individual capacities together:
