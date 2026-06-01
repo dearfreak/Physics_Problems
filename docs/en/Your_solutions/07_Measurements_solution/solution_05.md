@@ -12,4 +12,4 @@ $$\\frac{0.22}{5.45} \\approx 0.040367$$
 $$0.040367 \\times 100\\% \\approx 4.04\\%$$
 
 ### Final Answer:
-The percentage uncertainty of the time measurement is approximately **4.04%**. *(Note: if adhering strictly to significant figures rules based on the 0.22 uncertainty, you may round this to 4.0%).*
+The percentage uncertainty of the time measurement is approximately **4.04%**.
